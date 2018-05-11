@@ -1,2 +1,3 @@
 # CometAssayANN
-Artificial neural network to classification in comet assay
+Artificial neural network to classification in comet assay.
+The code is written in MATLAB environment.
