@@ -3,7 +3,7 @@ imgsize=80;
 %load deep001.mat
 %% Create Datastore
 
-digitData = imageDatastore('img/vetrini e pesticidi','IncludeSubfolders',true,'LabelSource','foldernames');
+digitData = imageDatastore('img/ds','IncludeSubfolders',true,'LabelSource','foldernames');
 
 %% Mostra alcune immagini random
 
